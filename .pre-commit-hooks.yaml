@@ -3,5 +3,4 @@
   description: This hook ensures that loggers always have names, which is important for Datadog
   entry: enforce_named_loggers.py
   language: python
-  files: *.py
-
+  files: '*.py'
