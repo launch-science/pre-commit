@@ -1,4 +1,4 @@
-- id: enforce_named_loggers
+- id: enforce-named-loggers
   name: Enforce Named Loggers
   description: This hook ensures that loggers always have names, which is important for Datadog
   entry: hooks/enforce_named_loggers.py
